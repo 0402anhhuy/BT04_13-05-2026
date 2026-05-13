@@ -8,7 +8,7 @@ import RegisterPage from "./pages/register.jsx";
 import UserPage from "./pages/user.jsx";
 import HomePage from "./pages/home.jsx";
 import LoginPage from "./pages/login.jsx";
-import ProductDetail from "./components/ProductDetail.jsx";
+import ProductDetail from "./pages/productDetail.jsx";
 import { AuthWrapper } from "./components/context/auth.context.jsx";
 
 const router = createBrowserRouter([
